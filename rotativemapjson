@@ -1,0 +1,76 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 30,
+			"iconurl": "https://iili.io/FLh4SnI.png",
+			"disableicontext": true,
+			"iconposition": 3,
+			"icontextcolor": 8,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 0
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://iili.io/FrblZrv.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Online Players",
+				"imageurl": "https://iili.io/FrblrmP.png",
+				"content": [
+					{
+						"title": "Current Playing",
+						"text": "{playerlist}"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Rules",
+				"imageurl": "https://iili.io/F4vCphG.png",
+				"content": []
+			},
+			{
+				"layout": 1,
+				"buttontext": "Server Rates",
+				"imageurl": "https://iili.io/FrblLBa.png",
+				"content": []
+			},
+			{
+				"layout": 1,
+				"buttontext": "About Rotating Map!",
+				"imageurl": "https://iili.io/FrblgkB.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Join Discord",
+				"url": "https://discord.gg/h2ZQnSVAGg"
+			},
+			{
+				"text": "//discord.gg/h2ZQnSVAGg",
+				"url": ""
+			}
+		],
+		"version": 2
+	}
+}
